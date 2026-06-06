@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hr2X4lBtco8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aricg\\source\\repos\\Reforger\\Reforger\\Reforger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aricg\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512"
+  ],
+  "logs": []
+}

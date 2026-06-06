@@ -1,0 +1,17 @@
+C:\Users\aricg\source\repos\Reforger\Reforger\bin\Debug\net10.0-windows\Reforger.exe
+C:\Users\aricg\source\repos\Reforger\Reforger\bin\Debug\net10.0-windows\Reforger.deps.json
+C:\Users\aricg\source\repos\Reforger\Reforger\bin\Debug\net10.0-windows\Reforger.runtimeconfig.json
+C:\Users\aricg\source\repos\Reforger\Reforger\bin\Debug\net10.0-windows\Reforger.dll
+C:\Users\aricg\source\repos\Reforger\Reforger\bin\Debug\net10.0-windows\Reforger.pdb
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.Form1.resources
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.csproj.GenerateResource.cache
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.AssemblyInfoInputs.cache
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.AssemblyInfo.cs
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.csproj.CoreCompileInputs.cache
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.dll
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\refint\Reforger.dll
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.pdb
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.genruntimeconfig.cache
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\ref\Reforger.dll
+C:\Users\aricg\source\repos\Reforger\Reforger\obj\Debug\net10.0-windows\Reforger.Properties.Resources.resources
